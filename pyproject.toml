@@ -1,0 +1,26 @@
+[project]
+name = "mcp-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiosqlite>=0.21.0",
+    "ddgs>=9.9.1",
+    "duckduckgo-search>=8.1.1",
+    "faiss-cpu>=1.13.0",
+    "groq>=0.36.0",
+    "langchain>=1.0.8",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.1.0",
+    "langchain-huggingface>=1.0.1",
+    "langchain-mcp-adapters>=0.1.13",
+    "langchain-text-splitters>=1.0.0",
+    "langgraph>=1.0.3",
+    "langgraph-checkpoint-sqlite>=3.0.0",
+    "pypdf>=6.3.0",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "sentence-transformers>=5.1.2",
+    "streamlit>=1.51.0",
+]

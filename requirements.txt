@@ -1,0 +1,16 @@
+langgraph
+langchain-core
+langchain-community
+langchain-mcp-adapters
+langchain-huggingface
+langchain-text-splitters
+python-dotenv
+aiosqlite
+requests
+groq 
+langgraph-checkpoint-sqlite 
+streamlit
+duckduckgo-search
+sentence-transformers
+faiss-cpu
+pypdf
